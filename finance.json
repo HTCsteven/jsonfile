@@ -1,0 +1,98 @@
+{
+    "nodes": [
+        {
+            "name": "北京嘉事唯众医疗器械有限公司", 
+             "size":1
+        },
+         {
+            "name": "北京昆仑在线网络科技有限公司", 
+             "size":2
+        },
+         {
+            "name": "北京新华印刷有限公司", 
+             "size":1
+        },
+         {
+            "name": "北京银行", 
+             "size":15
+        },
+         {
+            "name": "长天科技有限公司", 
+             "size":1
+        },
+         {
+            "name": "国投中鲁果汁股份有限公司", 
+             "size":1
+        },
+         {
+            "name": "明阳智慧能源集团股份公司", 
+             "size":1
+        },
+         {
+            "name": "上海振华重工(集团)股份有限公司", 
+             "size":1
+        },
+         {
+            "name": "天津明日宇航新材料科技有限公司", 
+             "size":1
+        },
+         {
+            "name": "中天储能科技有限公司", 
+             "size":1
+        },
+         {
+            "name": "中天光伏材料有限公司", 
+             "size":2
+        },
+         {
+            "name": "中天宽带技术有限公司", 
+             "size":3
+        }
+    ],
+    "links": [
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 3,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 7
+        },
+        {
+            "source": 3,
+            "target": 8
+        },
+        {
+            "source": 3,
+            "target": 9
+        },
+        {
+            "source": 3,
+            "target": 10
+        },
+        {
+            "source": 3,
+            "target": 11
+        }
+    ]
+}
